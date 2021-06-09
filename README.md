@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @hariolai
 - 👀 I’m interested in algorithm and data structure, problem solving, software development, watch movies, read books, and playing game
 - 🎓 I'm graduated from President University majoring on Information System on 2020
-- 📫 I'm reachable on my linkedin account on https://www.linkedin.com/in/hariolai/ or email for those who know my email
+- 📫 I'm reachable on my [linkedin account](https://www.linkedin.com/in/hariolai/) or email for those who know my email
