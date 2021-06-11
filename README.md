@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @hariolai
-- 👀 I’m interested in algorithm and data structure, problem solving, software development, watch movies, read books, and playing game
+- 👀 I’m interested in algorithm and data structure, problem solving, and software development
+- 🧐 I'm develop mobile app, web app, website, game, learn new things, watch movies, read books, and play video game during my free time
 - 🎓 I'm graduated from President University majoring on Information System on 2020
 - 📫 I'm reachable on my [Linkedin account](https://www.linkedin.com/in/hariolai/) or email for those who know my email
